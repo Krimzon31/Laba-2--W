@@ -21,7 +21,6 @@ namespace Laba_2_W
                                     Console.WriteLine($"({i} : {j})");
                                 }
                             }
-
                         }
                     }
                 }
